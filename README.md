@@ -42,3 +42,11 @@ device.set_parameter('filter', 0.75)
 ```
 
 See [docs/USAGE.md](docs/USAGE.md) for details.
+
+## Contributing
+
+BSA-Engine thrives on contributors expanding device support and core features. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines and [TEMPLATES/](TEMPLATES/) for device and configuration templates.
+
+## License
+
+MIT License
