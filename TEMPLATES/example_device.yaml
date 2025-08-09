@@ -1,0 +1,22 @@
+name: Example Synth
+manufacturer: ExampleCorp
+midi_in: "Example Synth MIDI In"
+midi_out: "Example Synth MIDI Out"
+parameters:
+  cutoff:
+    cc: 74
+    min: 0
+    max: 127
+  resonance:
+    cc: 71
+    min: 0
+    max: 127
+  volume:
+    cc: 7
+    min: 0
+    max: 127
+notes:
+  kick:
+    note: 36
+  snare:
+    note: 38
