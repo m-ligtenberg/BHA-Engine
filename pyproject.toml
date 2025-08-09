@@ -3,7 +3,7 @@ name = "bsa-engine"
 version = "0.1.0"
 description = "Base Hardware Abstraction Engine for modular MIDI device integration"
 license = "MIT"
-authors = [{name = "Your Name", email = "youremail@example.com"}]
+authors = [{name = "M. Ligtenberg", email = "info@michligtenberg.nl"}]
 readme = "README.md"
 requires-python = ">=3.8"
 dependencies = [
